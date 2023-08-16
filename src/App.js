@@ -32,8 +32,8 @@ function App() {
   };
 
   return (
-    <h1 style="text-align:center;">
     <div className="container">
+      <center>
       <h1>Check Eligibility SEI</h1>
       <p>Paste address SEI, elig moal maneh ?</p>
       <input
@@ -55,6 +55,7 @@ function App() {
       )}
         <p>
       <img src='https://i.ibb.co/PwYfg4r/Whats-App-Image-2022-04-07-at-12-28-50.jpg' ></img></p>
+          </center>
     </div>
   );
 }
