@@ -35,7 +35,7 @@ function App() {
     <div className="container">
       <center>
       <h1>Check Eligibility SEI</h1>
-      <p>Enter your address below to check eligibility:</p>
+      <p>Asupken Address SEI, elig moal maneh:</p>
       <input
         type="text"
         placeholder="Enter your address"
