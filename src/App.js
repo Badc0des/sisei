@@ -48,7 +48,7 @@ function App() {
         <div className="result">
           <h2>Eligibility Result</h2>
           <p>Address: {address}</p>
-          <p>Eligibility: {eligibility ? 'elig euy' : <img src='https://i.ibb.co/Svw9RJz/Whats-App-Image-2022-05-30-at-18-01-27.jpg' />} </p>
+          <p>Eligibility: {eligibility ? 'elig euy' : <br><img src='https://i.ibb.co/Svw9RJz/Whats-App-Image-2022-05-30-at-18-01-27.jpg' />} </p>
           <p>Reason: {reason}</p>
           <p>Amount: {amount} SEI</p>
         </div>
