@@ -32,9 +32,10 @@ function App() {
   };
 
   return (
+    <center>
     <div className="container">
       <h1>Check Eligibility SEI</h1>
-      <p>Paste address, elig moal maneh ?</p>
+      <p>Paste address SEI, elig moal maneh ?</p>
       <input
         type="text"
         placeholder="Enter your address"
