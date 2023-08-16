@@ -53,9 +53,6 @@ function App() {
           <p>Amount: {amount} SEI</p>
         </div>
       )}
-        <p>
-      
-
           <h1> ELIG SYUKUR, TEU ELIG LEBOK KUSIA</h1>
           </center>
     </div>
