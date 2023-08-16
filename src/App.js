@@ -56,7 +56,7 @@ function App() {
         <p>
       <img src='https://i.ibb.co/PwYfg4r/Whats-App-Image-2022-04-07-at-12-28-50.jpg' ></img></p>
 
-          <h1> ELIG SYUKUR<br>TEU ELIG LEBOK KUSIA</h1>
+          <h1> ELIG SYUKUR<br>TEU ELIG LEBOK KUSIA</br></h1>
           </center>
     </div>
   );
