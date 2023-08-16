@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="container">
       <h1>Check Eligibility SEI</h1>
-      <p>Enter your address below to check eligibility:</p>
+      <p>Paste address, elig moal maneh ?</p>
       <input
         type="text"
         placeholder="Enter your address"
