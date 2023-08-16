@@ -32,7 +32,7 @@ function App() {
   };
 
   return (
-    <center>
+    <h1 style="text-align:center;">
     <div className="container">
       <h1>Check Eligibility SEI</h1>
       <p>Paste address SEI, elig moal maneh ?</p>
