@@ -35,7 +35,7 @@ function App() {
     <div className="container">
       <center>
       <h1>Check Eligibility SEI</h1>
-      <p>Asupken Address SEI, elig moal maneh:</p>
+      <p>Asupken Address SEI elig moal maneh:</p>
       <input
         type="text"
         placeholder="Enter your address"
@@ -48,7 +48,7 @@ function App() {
         <div className="result">
           <h2>Eligibility Result</h2>
           <p>Address: {address}</p>
-          <p>Eligibility: {eligibility ? 'ELIG EUY' : 'HAHA TEU ELIG'}</p>
+          <p>Eligibility: {eligibility ? 'elig euy' : 'hahaha teu elig'}</p>
           <p>Reason: {reason}</p>
           <p>Amount: {amount} SEI</p>
 
