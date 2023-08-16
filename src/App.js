@@ -53,7 +53,6 @@ function App() {
         </div>
       )}
 
-    <p>Created By: <a href='https://twitter.com/StressCapitals'>Stress Capital</a></p>
       <img src='https://i.ibb.co/PwYfg4r/Whats-App-Image-2022-04-07-at-12-28-50.jpg' ></img>
     </div>
   );
